@@ -1,0 +1,16 @@
+{
+  "name": "agentstats",
+  "description": "Track how much time AI coding agents spend actively working on your projects.",
+  "owner": {
+    "name": "Dan Simmons",
+    "homepage": "https://github.com/dansimau/agentstats"
+  },
+  "plugins": [
+    {
+      "name": "agentstats",
+      "description": "Records AI coding agent prompt timing, session data, and git state. Provides stats and history CLI commands.",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}

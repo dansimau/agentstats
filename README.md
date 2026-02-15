@@ -14,7 +14,7 @@ Time between prompts (reading output, thinking, approving plans) is never counte
 ### As a Claude Code plugin
 
 ```
-/plugin marketplace add github.com/dansimau/agentstats
+/plugin marketplace add dansimau/agentstats
 ```
 
 Pre-compiled binaries for all platforms are included. No install step required.
