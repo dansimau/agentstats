@@ -1,0 +1,10 @@
+{
+  "name": "agentstats",
+  "description": "Records AI coding agent prompt timing, session data, and git state. Provides stats and history CLI commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dan Simmons",
+    "email": "dan@example.com"
+  },
+  "homepage": "https://github.com/dansimau/agentstats"
+}
