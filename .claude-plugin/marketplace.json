@@ -10,7 +10,7 @@
       "name": "agentstats",
       "description": "Records AI coding agent prompt timing, session data, and git state. Provides stats and history CLI commands.",
       "version": "1.0.0",
-      "source": "."
+      "source": "https://github.com/dansimau/agentstats"
     }
   ]
 }
